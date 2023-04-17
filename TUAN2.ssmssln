@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TUAN2", "TUAN2\TUAN2.ssmssqlproj", "{72CA38F5-47C7-41C9-ADB1-7BE1C8CA990A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CA38F5-47C7-41C9-ADB1-7BE1C8CA990A}.Default|Default.ActiveCfg = Default
+		{50B3973B-46B3-4AE5-91F7-35EF4CE19E15}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC2B895-728C-4B91-94BB-6E92DB10196C}
+	EndGlobalSection
+EndGlobal
